@@ -3,7 +3,7 @@ branches:
   only: 
   - DiscU-AppVeyorProblems 
 configuration: Release 
-platform: Any CPU 
+#platform: Any CPU 
 assembly_info: 
   patch: true 
   file: '**\AssemblyInfo.*' 
